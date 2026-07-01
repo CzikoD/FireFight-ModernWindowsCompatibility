@@ -1,0 +1,15 @@
+Fire Fight - Modern Windows Compatibility
+
+Copyright (c) 2026
+
+This repository contains only original documentation and configuration
+files created for compatibility with modern versions of Windows.
+
+No Fire Fight game files, executables, assets, music, or other copyrighted
+material are included.
+
+You are free to copy, modify, and redistribute the documentation and
+DxWnd profile contained in this repository.
+
+Fire Fight is © Chaos Works.
+DxWnd is © The DxWnd Project.
