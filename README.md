@@ -77,6 +77,17 @@ Do **not** launch FIREFGHT.EXE directly.
 
 ---
 
+## Known Issues
+
+No issues have been discovered during testing.
+
+If you encounter a problem, please open an Issue on GitHub and include:
+
+- Your Windows version
+- Your DxWnd version
+- The exact error message
+- Whether the game launches from DxWnd
+
 ## Included screenshots
 
 See the screenshots folder for reference images showing the required DxWnd settings and the game running successfully.
