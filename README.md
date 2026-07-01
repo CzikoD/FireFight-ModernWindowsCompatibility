@@ -1,6 +1,6 @@
 # Fire Fight (1996) - Modern Windows Compatibility
 
-![Fire Fight menu](screenshots/game--main-menu.png)
+![Fire Fight menu](screenshots/game-main-menu.png)
 
 Run the original Windows version of **Fire Fight (1996)** on modern versions of Windows using **DxWnd**.
 
