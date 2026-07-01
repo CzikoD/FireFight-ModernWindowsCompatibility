@@ -38,10 +38,12 @@ This project does **not** include any game files.
 
 Open CWE.ini using Notepad.
 
-Locate the [spr] section and add:
+Locate the `[spr]` section and add:
 
+```ini
 use_640x400 = yes
 use_320x200 = no
+```
 
 Save the file.
 
